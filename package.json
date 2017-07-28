@@ -1,0 +1,25 @@
+{
+  "name": "ng2blog",
+  "version": "1.0.0",
+  "description": "mean stack application using angular 2, express, mongodb and node",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/reanzi/ng2Blog.git"
+  },
+  "keywords": [
+    "MEAN",
+    "STACK",
+    "angular",
+    "2"
+  ],
+  "author": "Raymond Michael Nziku",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/reanzi/ng2Blog/issues"
+  },
+  "homepage": "https://github.com/reanzi/ng2Blog#readme"
+}
